@@ -16,7 +16,7 @@ public class Practice01Test {
 		System.out.println("username======"+username);
 		System.out.println("password====="+password);
 		}
-	
+	//alternate
 	@Test(enabled=false)
 	public void test2() {
 		System.out.println("From Tyss002");
