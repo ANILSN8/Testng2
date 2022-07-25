@@ -20,6 +20,8 @@ public class Practice01Test {
 	@Test(enabled=false)
 	public void test2() {
 		System.out.println("From Tyss002");
+		System.out.println("From Tyss006");
+		
 	}
 	
 	@Test(priority=1)
